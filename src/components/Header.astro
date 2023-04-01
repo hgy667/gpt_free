@@ -1,12 +1,12 @@
 ---
-import Logo from "./1024.png"
+import Logo from "./Logo.astro"
 import ThemeToggle from "./ThemeToggle.astro"
 export const prerender = true
 ---
 
 <header class="sticky top--100px z-99 px-2em">
-  <div class="w-100px h-100px 1024">
-    <1024 />
+  <div class="w-100px h-100px logo">
+    <Logo />
   </div>
   <div class="flex justify-between items-center py-1">
     <div
@@ -52,14 +52,14 @@ export const prerender = true
 <style is:inline>
   .after .title,
   .after #themeToggle,
-  .after .1024,
+  .after .logo,
   .after #message-container {
     transition-property: transform, opacity;
     transition-duration: 1s;
     transition-timing-function: ease-in-out;
   }
 
-  .before .1024 {
+  .before .logo {
     transform: translate3D(25px, 150px, 0) scale(2);
   }
 
@@ -85,4 +85,3 @@ export const prerender = true
     opacity: 1;
   }
 </style>
-
