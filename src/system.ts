@@ -14,7 +14,7 @@ export const defaultMessage = `Powered by OpenAI Vercel
 - 本网站基于ChatGPT和Github开源项目制作 
 - 仅供独众传媒内部使用 切勿外传 避免网站被封！！！
 - 本网站由何高阳开发与维护，未经允许不得用于商业用途
-===============================================
+======================================
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]]  搜索预设。[[↑]]`
 
 export type Setting = typeof defaultSetting
