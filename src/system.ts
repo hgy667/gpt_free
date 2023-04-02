@@ -14,6 +14,7 @@ export const defaultMessage = `Powered by OpenAI Vercel
 - 本网站基于ChatGPT和Github开源项目制作 
 - 仅供独众传媒内部使用 切勿外传 避免网站被封！！！
 - 本网站由何高阳开发与维护，未经允许不得用于商业用途
+- 在使用过程中遇到任何问题可以联系本人微信 [喔嚯](https://cdn.jsdelivr.net/hgy667/hgy01/assets/微信图片_20230402211926)
 ==================================
 - [[Shift]] + [[Enter]] 文字换行。开头输入 [[/]] 使用提问辅助。`
 
