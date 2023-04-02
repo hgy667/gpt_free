@@ -5,7 +5,7 @@ export const defaultSetting = {
   archiveSession: true,
   openaiAPIKey: "",
   openaiAPITemperature: 60,
-  password: "",
+  password: "1216",
   systemRule: "",
   model: "gpt-3.5-turbo" as Model
 }
