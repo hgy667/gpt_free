@@ -10,11 +10,11 @@ export const defaultSetting = {
   model: "gpt-3.5-turbo" as Model
 }
 
-export const defaultMessage = `Powered by OpenAI Vercel
-- 本网站基于ChatGPT和Github开源项目制作 
-- 仅供独众传媒内部使用 切勿外传 避免网站被封！！！
-- 本网站由何高阳开发与维护，未经允许不得用于商业用途
-- 在使用过程中遇到任何问题可以联系本人[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=9sBonSEvwvNEA-vLiJHZpL4sAD2DouCW&noverify=0&personal_qrcode_source=4)
+export const defaultMessage = `chatgpt 3.5  大众体验版
+- 玩转GPT-3.5免费体验一天！ 
+- 我们公司排到了OPENAI的api，现在有接口大家可以免魔法，不用注册帐号就可以进群试用gpt3.5AI 大模型了，为了回馈大家，现在免费对大家开放社群，大家可以进来试用。
+- 为了避免造成拥堵，免费体验只限一天，联系客服可拿到VIP权限：微信：13255978613
+- VIP客户无需魔法，无需帐号可顺畅享受Chatgpt大模型带来的效率和体验！
 ==================================
 - [[Shift]] + [[Enter]] 文字换行。开头输入 [[/]] 使用提问辅助。`
 
