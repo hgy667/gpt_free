@@ -13,8 +13,8 @@ export const defaultSetting = {
 export const defaultMessage = `chatgpt 3.5  大众体验版
 - 玩转GPT-3.5免费体验一天！ 
 - 我们公司排到了OPENAI的api，现在有接口大家可以免魔法，不用注册帐号就可以进群试用gpt3.5AI 大模型了，为了回馈大家，现在免费对大家开放社群，大家可以进来试用。
-- 为了避免造成拥堵，免费体验只限一天，联系客服可拿到VIP权限：[客服微信](https://raw.githubusercontent.com/hgy667/gpt_free/main/public/wx.jpg)
-- 也可自助续费：[淘宝](https://m.tb.cn/h.Uu1iPB2?tk=fgLVdO6Mupe)「AI人工智能ChatAI训练营AI视频脚本策划视频制作创意制作样本30天」
+- 为了避免造成拥堵，免费体验只限一天，联系客服可拿到VIP权限：[客服微信](https://www.yuque.com/u32987515/sh30ux/tqhrznho3lx61nho?singleDoc# 《客服微信》)
+- 也可自助续费：[淘宝自助入口](https://m.tb.cn/h.Uu1iPB2?tk=fgLVdO6Mupe)
 - VIP客户无需魔法，无需帐号可顺畅享受Chatgpt大模型带来的效率和体验！
 ==================================
 - [[Shift]] + [[Enter]] 文字换行。开头输入 [[/]] 使用提问辅助。`
